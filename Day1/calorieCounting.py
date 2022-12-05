@@ -1,7 +1,7 @@
 print("Part I")
 
 # Reads the input
-stream = open("Day 1/input.txt", "r")
+stream = open("Day1/input.txt", "r")
 eof = False
 calories = 0
 max_calories = 0
@@ -24,7 +24,7 @@ print(max_calories)
 print("Part II")
 
 # Reads the input
-stream = open("Day 1/input.txt", "r")
+stream = open("Day1/input.txt", "r")
 eof = False
 calories = 0
 calories_by_elf = []

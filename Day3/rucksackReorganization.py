@@ -46,7 +46,7 @@ def get_shared_item_between_rucksacks(rucksack1: str, rucksack2: str, rucksack3:
 
 print("Part I")
 # Reads the input
-stream = open("Day 3/input.txt", "r")
+stream = open("Day3/input.txt", "r")
 eof = False
 total_priority = 0
 while(not eof):
@@ -63,7 +63,7 @@ print(total_priority)
 
 print("Part II")
 # Reads the input
-stream = open("Day 3/input.txt", "r")
+stream = open("Day3/input.txt", "r")
 eof = False
 rucksack_trio = []
 total_priority = 0

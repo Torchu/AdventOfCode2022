@@ -40,7 +40,7 @@ def calculate_move(oponent_choice: str, result: str) -> str :
 
 print("Part I")
 # Reads the input
-stream = open("Day 2/input.txt", "r")
+stream = open("Day2/input.txt", "r")
 eof = False
 total_points = 0
 while(not eof):
@@ -56,7 +56,7 @@ print(total_points)
             
 print("Part II")
 # Reads the input
-stream = open("Day 2/input.txt", "r")
+stream = open("Day2/input.txt", "r")
 eof = False
 total_points = 0
 while(not eof):
